@@ -1,6 +1,6 @@
 {
   "name": "bibtext-file-info",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Extrai informações de um arquivo bibtext",
   "main": "index.js",
   "repository": {
