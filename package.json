@@ -3,6 +3,10 @@
   "version": "0.0.1",
   "description": "Extrai informações de um arquivo bibtext",
   "main": "index.js",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/lucasmonteiro001/bib-file-info.git"
+  },
   "scripts": {
     "test": "mocha"
   },
